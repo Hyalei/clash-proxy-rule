@@ -56,4 +56,6 @@ https://github.com/AUK9527/Are-u-ok/tree/main/x86
 同样在NameServer中，勾选几个dns  
 
 ### 插件设置-模式设置
-取消UDP流量转发，这个选项可能会导致steam无法语音  
+运行模式使用tun
+### 插件设置-流量控制
+仅允许常用端口流量选项，选择默认常用端口，这可以解决steam语音异常问题
